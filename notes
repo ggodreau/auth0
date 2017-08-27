@@ -1,0 +1,8 @@
+to build:
+ionic cordova build android
+
+where build is placed:
+platforms/android/build/outputs/apk/android-debug.apk
+
+app ID is the id element of the widget tag in config.xml:
+<widget id="io.ionic.starter.auth0">

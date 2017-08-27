@@ -2,3 +2,5 @@ config.xml
 ionic.config.json
 resources
 www
+node_modules
+platforms
